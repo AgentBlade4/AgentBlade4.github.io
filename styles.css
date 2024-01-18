@@ -1,0 +1,71 @@
+body {
+	background-image: url("images/background.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1 {
+	color: red;
+	width: 600px;
+	font-size: 60px;
+	margin: auto;
+	text-align: center;
+	background-color: black;
+}
+
+p {
+	color: white;
+}
+
+.intro {
+	width: 600px;
+	padding: 10px;
+	margin: 15px;
+	background: black;
+	display: block;
+	margin: auto;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+.intro img {
+	width: 256px;
+	height: 256px;
+	background-size: cover;
+	margin: auto;
+	border: 2px solid white;
+	display: block;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+}
+
+.linklist {
+	margin-top: 100px;
+}
+
+.linklist h2 {
+	background-color: black;
+	width: 100px;
+	margin: auto;
+}
+
+.links {
+	display: block;
+	width: 305px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.footnote {
+	width: 800px;
+	padding: 10px;
+	margin: 15px;
+	background: black;
+	display: block;
+	margin: auto;
+	margin-top: 200px;
+	margin-bottom: 50px;
+}
